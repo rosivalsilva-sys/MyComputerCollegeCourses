@@ -1,1 +1,0 @@
-https://www.ctolib.com/docs//sfile/diy-c-compiler/index.html
